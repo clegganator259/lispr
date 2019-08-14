@@ -1,0 +1,8 @@
+[package]
+name = "lispr"
+version = "0.1.0"
+authors = ["David Clegg <david.clegg@boughtbymany.com>"]
+edition = "2018"
+
+[dependencies]
+rustyline = "5.0.1"
